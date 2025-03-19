@@ -4,6 +4,8 @@ This project introduces an AI-powered healthcare assistant designed to enhance t
 
 ## Features
 
+📺 **Watch the Demo Video**: [![AI-Powered Rural Healthcare](https://img.youtube.com/vi/vpWNgRExsSE/maxresdefault.jpg)](https://youtu.be/vpWNgRExsSE)  
+
 ### AI-Powered Patient Triage & Assistance
 - 🤖 AI-driven initial patient assessment using RAG data and vector databases
 - 🏥 Automatic urgency detection with escalation to human specialists
