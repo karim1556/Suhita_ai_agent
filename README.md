@@ -33,7 +33,7 @@ This project introduces an AI-powered healthcare assistant designed to enhance t
 
 ### Prerequisites
 - **Node.js & npm** (for the frontend)
-- **MongoDB, Express.js, React.js, Node.js** (MERN stack for backend development)
+- **Python** (MERN stack for backend development)
 - **Twilio API** (for urgent call placement)
 - **Vector Database** (for storing AI-interaction data)
 
